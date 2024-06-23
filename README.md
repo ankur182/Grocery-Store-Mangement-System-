@@ -123,8 +123,8 @@ Implementing UI updates based on user actions enhances the user interface and pr
 Identifying and fixing bugs, such as updating the grand total on price changes, improves the functionality and user experience of the application. 🪲
 
 Providing clear instructions and exercises for further learning and skill development enhances the educational value of the tutorial. 📚
+![Screenshot 2024-06-23 234755](https://github.com/ankur182/Grocery-Store-Mangement-System-/assets/98750453/a3df8e2e-13df-4758-a923-82eefb61286b)
 
-![Screenshot 2024-06-22 005958](https://github.com/ankur182/Grocery-Store-Application/assets/98750453/0874e056-5496-490d-84eb-3978864d6f85)
 
 ![Screenshot 2024-06-22 010102](https://github.com/ankur182/Grocery-Store-Application/assets/98750453/2058165a-98a8-4142-87d2-3498d1f63112)
 Day (20-25) LIST ORDERS
